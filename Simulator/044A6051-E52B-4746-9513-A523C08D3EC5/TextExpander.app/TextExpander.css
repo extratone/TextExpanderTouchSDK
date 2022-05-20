@@ -1,0 +1,103 @@
+/* borderless input */
+input[type=text],
+input[type=text]:hover,
+input[type=text]:focus,
+input[type=text]:active
+{
+    border: 0;
+    outline: none;
+    outline-offset: 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.disclosureTriangle {
+}
+
+.disclosureTriangleClosed:before {
+    content: '▸';
+}
+
+.disclosureTriangleOpen:before {
+    content: '▾';
+}
+
+.topFields {
+    font-family:"Helvetica";
+    font-size: 12.0px;
+}
+
+/* input type: text */
+.textField {
+	font-family:inherit;
+	font-size:inherit;
+	font-weight: inherit;
+	background-color: #e8e8e8;
+	color: inherit;
+	text-decoration: inherit;
+}
+
+/* input type: area */
+.textArea {
+	font-family:inherit;
+	font-size:inherit;
+	font-weight: inherit;
+    background-color: #e8e8e8;
+	color: inherit;
+	text-decoration: inherit;
+}
+
+/* input type: popup */
+.popup {
+	font-family:inherit;
+	font-size:inherit;
+	font-weight: inherit;
+	color: inherit;
+	text-decoration: inherit;
+}
+
+/* input type: optional section */
+.checkbox {
+	font-family:inherit;
+	font-size:inherit;
+	font-weight: inherit;
+	color: inherit;
+	text-decoration: inherit;
+}
+
+.condyes {
+	background-color:#ccffcc;
+	color:#000000;
+	padding:2px;
+}
+
+.condno {
+	background-color: #ff9999;
+	color:#333333;
+	padding:2px;
+}
+
+/* escaped snippet name (iOS) */
+.snippetName_iOS {
+	font-weight:normal;
+}
+
+/* body (iOS) */
+.snippetBody_iOS {
+	font-size:125%;
+	font-weight: bold;
+	background-color:silver;
+	text-align:center;
+}
+
+/* cancel button (OS X) */
+.cancelButton_OSX {
+	width:50pt;
+}
+
+/* ok button (OS X) */
+.okButton_OSX {
+	width:50pt;
+}

@@ -1,0 +1,653 @@
+	<Keyface Type="Unshifted" Layout="Español" CRLayout="V:|->=9-[row0(41)]-13-[row1(41)]-13-[row2(41)]-12-[row3(41)]-3@500-|"
+        CCLayout="V:|->=6-[row0(33)]-7-[row1(33)]-7-[row2(33)]-7-[row3(33)]-3@500-|"
+        RRPLayout="V:|->=7-[row0(58)]-8-[row1(56)]-8-[row2(56)]-8-[row3(56)]-7@500-|"
+        RRLLayout="V:|->=10-[row0(75)]-11-[row1(75)]-11-[row2(75)]-11-[row3(75)]-9@500-|">
+        <Row CRLayout="|-3@500-[key0(26)]-6-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-6-[key8(26)]-6-[key9(26)]->=3@500-|"
+             CCLayout="|-3@500-[key0(51)]-5-[key1(52)]-5-[key2(52)]-5-[key3(52)]-5-[key4(51)]-6-[key5(51)]-5-[key6(52)]-5-[key7(52)]-5-[key8(52)]-5-[key9(51)]->=3@500-|"
+             RRPLayout="|-6@500-[key0(55)]-12-[key1(55)]-12-[key2(55)]-12-[key3(55)]-12-[key4(55)]-12-[key5(55)]-12-[key6(55)]-12-[key7(55)]-12-[key8(55)]-12-[key9(55)]-13-[key10(85)]->=6@500-|"
+             RRLLayout="|-7@500-[key0(75)]-14-[key1(75)]-14-[key2(75)]-14-[key3(75)]-14-[key4(75)]-14-[key5(75)]-14-[key6(75)]-14-[key7(75)]-14-[key8(75)]-14-[key9(75)]-14-[key10(120)]->=7@500-|"
+             Index="0">
+			<Key Cap="q" Glyph="q" iPhoneIndex="0" iPadIndex="0" />
+			<Key Cap="w" Glyph="w" iPhoneIndex="1" iPadIndex="1" />
+			<Key Cap="e" Glyph="e" iPhoneIndex="2" iPadIndex="2" Alternates="eéèëêęėē" />
+			<Key Cap="r" Glyph="r" iPhoneIndex="3" iPadIndex="3" />
+			<Key Cap="t" Glyph="t" iPhoneIndex="4" iPadIndex="4" />
+			<Key Cap="y" Glyph="y" iPhoneIndex="5" iPadIndex="5" />
+			<Key Cap="u" Glyph="u" iPhoneIndex="6" iPadIndex="6" Alternates="uúüùûū" />
+			<Key Cap="i" Glyph="i" iPhoneIndex="7" iPadIndex="7" Alternates="iíïìîįī" />
+			<Key Cap="o" Glyph="o" iPhoneIndex="8" iPadIndex="8" Alternates="oóòöôõøœō°" />
+			<Key Cap="p" Glyph="p" iPhoneIndex="9" iPadIndex="9" />
+            <Key Cap="⌫" Glyph="" iPhoneIndex="-1" iPadIndex="10" Special="Delete" />
+		</Row>
+        <Row CRLayout="|-3@500-[key0(26)]-6-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-6-[key8(26)]-6-[key9(26)]->=3@500-|"
+            CCLayout="|-3@500-[key0(51)]-5-[key1(52)]-5-[key2(52)]-5-[key3(52)]-5-[key4(51)]-6-[key5(51)]-5-[key6(52)]-5-[key7(52)]-5-[key8(52)]-5-[key9(51)]->=3@500-|"
+            RRPLayout="|-16@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(56)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]-12-[key7(56)]-12-[key8(56)]-12-[key9(56)]-12-[key10(66)]->=6@500-|"
+            RRLLayout="|-21@500-[key0(77)]-14-[key1(76)]-14-[key2(77)]-14-[key3(76)]-14-[key4(77)]-14-[key5(76)]-14-[key6(77)]-14-[key7(76)]-14-[key8(77)]-14-[key9(76)]-8-[key10(97)]->=7@500-|"
+             Index="1">
+			<Key Cap="a" Glyph="a" iPhoneIndex="0" iPadIndex="0" Alternates="aàáäâãåąæāᵃ" />
+			<Key Cap="s" Glyph="s" iPhoneIndex="1" iPadIndex="1" Alternates="sš" />
+			<Key Cap="d" Glyph="d" iPhoneIndex="2" iPadIndex="2" Alternates="dđ"/>
+			<Key Cap="f" Glyph="f" iPhoneIndex="3" iPadIndex="3" />
+			<Key Cap="g" Glyph="g" iPhoneIndex="4" iPadIndex="4" />
+			<Key Cap="h" Glyph="h" iPhoneIndex="5" iPadIndex="5" />
+			<Key Cap="j" Glyph="j" iPhoneIndex="6" iPadIndex="6" />
+			<Key Cap="k" Glyph="k" iPhoneIndex="7" iPadIndex="7" />
+			<Key Cap="l" Glyph="l" iPhoneIndex="8" iPadIndex="8" />
+            <Key Cap="ñ" Glyph="ñ" iPhoneIndex="9" iPadIndex="9" />
+            <Key Cap="intro" Glyph="" iPhoneIndex="-1" iPadIndex="10" Special="Return" />
+		</Row>
+        <Row CRLayout="|-3@500-[key0(36)]-12-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-12-[key8(36)]->=3@500-|"
+             CCLayout="|-3@500-[key0(68)]-17-[key1(51)]-6-[key2(51)]-5-[key3(52)]-5-[key4(52)]-5-[key5(52)]-5-[key6(52)]-5-[key7(51)]-16-[key8(69)]->=3@500-|"
+             RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(56)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]-12-[key7(56)]-12-[key8(56)]-12-[key9(56)]-12-[key10(76)]->=6@500-|"
+             RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(76)]-14-[key3(77)]-14-[key4(76)]-14-[key5(77)]-14-[key6(76)]-14-[key7(77)]-14-[key8(76)]-14-[key9(76)]-14-[key10(105)]->=7@500-|"
+             Index="2">
+			<Key Cap="⇧" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Shift" />
+			<Key Cap="z" Glyph="z" iPhoneIndex="1" iPadIndex="1" />
+			<Key Cap="x" Glyph="x" iPhoneIndex="2" iPadIndex="2" />
+			<Key Cap="c" Glyph="c" iPhoneIndex="3" iPadIndex="3" Alternates="cçćč" />
+			<Key Cap="v" Glyph="v" iPhoneIndex="4" iPadIndex="4" />
+			<Key Cap="b" Glyph="b" iPhoneIndex="5" iPadIndex="5" />
+			<Key Cap="n" Glyph="n" iPhoneIndex="6" iPadIndex="6" Alternates="nń" />
+			<Key Cap="m" Glyph="m" iPhoneIndex="7" iPadIndex="7" />
+			<Key Cap="⌫" Glyph="" iPhoneIndex="8" iPadIndex="-1" Special="Delete" />
+            <Key Cap="," Glyph="," iPhoneIndex="-1" iPadIndex="8" Alternates="'" />
+            <Key Cap="." Glyph="." iPhoneIndex="-1" iPadIndex="9" Alternates="&quot;" />
+            <Key Cap="" Glyph="" iPhoneIndex="-1" iPadIndex="10" Special="Shift" />
+		</Row>
+        <Row CRLayout="|-3@500-[key0(36)]-12-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-12-[key8(36)]->=3@500-|"
+            CCLayout="|-3@500-[key0(68)]-17-[key1(51)]-6-[key2(51)]-5-[key3(52)]-5-[key4(52)]-5-[key5(52)]-5-[key6(52)]-5-[key7(51)]-16-[key8(69)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(56)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]-12-[key7(56)]-12-[key8(56)]-12-[key9(56)]-12-[key10(76)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(76)]-14-[key3(77)]-14-[key4(76)]-14-[key5(77)]-14-[key6(76)]-14-[key7(77)]-14-[key8(76)]-14-[key9(76)]-14-[key10(105)]->=7@500-|"
+            Index="2" KeyboardType="7">
+            <Key Cap="⇧" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Shift" />
+            <Key Cap="z" Glyph="z" iPhoneIndex="1" iPadIndex="1" />
+            <Key Cap="x" Glyph="x" iPhoneIndex="2" iPadIndex="2" />
+            <Key Cap="c" Glyph="c" iPhoneIndex="3" iPadIndex="3" Alternates="cçćč" />
+            <Key Cap="v" Glyph="v" iPhoneIndex="4" iPadIndex="4" />
+            <Key Cap="b" Glyph="b" iPhoneIndex="5" iPadIndex="5" />
+            <Key Cap="n" Glyph="n" iPhoneIndex="6" iPadIndex="6" Alternates="nń" />
+            <Key Cap="m" Glyph="m" iPhoneIndex="7" iPadIndex="7" />
+            <Key Cap="⌫" Glyph="" iPhoneIndex="8" iPadIndex="-1" Special="Delete" />
+            <Key Cap="@" Glyph="@" iPhoneIndex="-1" iPadIndex="8" />
+            <Key Cap="." Glyph="." iPhoneIndex="-1" iPadIndex="9" Alternates="|.|.com|.net|.edu|.org|.es|.mx" />
+            <Key Cap="" Glyph="" iPhoneIndex="-1" iPadIndex="10" Special="Shift" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(36)]-12-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-12-[key8(36)]->=3@500-|"
+            CCLayout="|-3@500-[key0(68)]-17-[key1(51)]-6-[key2(51)]-5-[key3(52)]-5-[key4(52)]-5-[key5(52)]-5-[key6(52)]-5-[key7(51)]-16-[key8(69)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(56)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]-12-[key7(56)]-12-[key8(56)]-12-[key9(56)]-12-[key10(76)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(76)]-14-[key3(77)]-14-[key4(76)]-14-[key5(77)]-14-[key6(76)]-14-[key7(77)]-14-[key8(76)]-14-[key9(76)]-14-[key10(105)]->=7@500-|"
+            Index="2" KeyboardType="10">
+            <Key Cap="⇧" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Shift" />
+            <Key Cap="z" Glyph="z" iPhoneIndex="1" iPadIndex="1" />
+            <Key Cap="x" Glyph="x" iPhoneIndex="2" iPadIndex="2" />
+            <Key Cap="c" Glyph="c" iPhoneIndex="3" iPadIndex="3" Alternates="cçćč" />
+            <Key Cap="v" Glyph="v" iPhoneIndex="4" iPadIndex="4" />
+            <Key Cap="b" Glyph="b" iPhoneIndex="5" iPadIndex="5" />
+            <Key Cap="n" Glyph="n" iPhoneIndex="6" iPadIndex="6" Alternates="nń" />
+            <Key Cap="m" Glyph="m" iPhoneIndex="7" iPadIndex="7" />
+            <Key Cap="⌫" Glyph="" iPhoneIndex="8" iPadIndex="-1" Special="Delete" />
+            <Key Cap="," Glyph="," iPhoneIndex="-1" iPadIndex="8" Alternates="'" />
+            <Key Cap="." Glyph="." iPhoneIndex="-1" iPadIndex="9" Alternates="|.|.com|.net|.edu|.org|.es|.mx" />
+            <Key Cap="" Glyph="" iPhoneIndex="-1" iPadIndex="10" Special="Shift" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(122)]-6-[key4(74)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(277)]-7-[key4(107)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(396)]-12-[key4(76)]-12-[key5(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(467)]-14-[key4(105)]-14-[key5(76)]->=7@500-|"
+             Index="3">
+			<Key Cap="123" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Numbers" />
+			<Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+			<Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+			<Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+			<Key Cap="intro" Glyph="" iPhoneIndex="4" iPadIndex="-1" Special="Return" />
+            <Key Cap=".?123" Glyph="" iPhoneIndex="-1" iPadIndex="4" Special="Numbers" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="5" Special="DismissKeyboard" />
+		</Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(42)]-6-[key4(34)]-6-[key5(34)]-6-[key6(74)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(137)]-6-[key4(64)]-6-[key5(64)]-7-[key6(107)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(348)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(467)]-14-[key4(76)]-14-[key5(76)]-14-[key6(76)]->=7@500-|"
+            Index="3" KeyboardType="7">
+            <Key Cap="123" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Numbers" />
+            <Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+            <Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+            <Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+            <Key Cap="@" Glyph="@" iPhoneIndex="4" iPadIndex="-1" />
+            <Key Cap="." Glyph="." iPhoneIndex="5" iPadIndex="-1" Alternates="|.|.com|.net|.edu|.org|.es|.mx"/>
+            <Key Cap="_" Glyph="_" iPhoneIndex="-1" iPadIndex="4" />
+            <Key Cap="-" Glyph="-" iPhoneIndex="-1" iPadIndex="5" />
+            <Key Cap="intro" Glyph="" iPhoneIndex="6" iPadIndex="-1" Special="Return" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="6" Special="DismissKeyboard" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(122)]-6-[key4(34)]-6-[key5(34)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(277)]-6-[key4(50)]-6-[key5(50)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(348)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(467)]-14-[key4(76)]-14-[key5(76)]-14-[key6(76)]->=7@500-|"
+            Index="3" KeyboardType="9">
+            <Key Cap="123" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Numbers" />
+            <Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+            <Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+            <Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+            <Key Cap="@" Glyph="@" iPhoneIndex="4" iPadIndex="4" />
+            <Key Cap="#" Glyph="#" iPhoneIndex="5" iPadIndex="5" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="6" Special="DismissKeyboard" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(112)]-6-[key4(34)]-6-[key5(44)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(221)]-6-[key4(50)]-7-[key5(107)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(386)]-12-[key4(76)]-12-[key5(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(528)]-14-[key4(105)]-14-[key5(76)]->=7@500-|"
+             Index="3" KeyboardType="10">
+            <Key Cap="123" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Numbers" />
+            <Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+            <Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+            <Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+            <Key Cap="." Glyph="." iPhoneIndex="4" iPadIndex="-1" Alternates="|.|.com|.net|.edu|.org|.es|.mx"/>
+            <Key Cap="intro" Glyph="" iPhoneIndex="5" iPadIndex="-1" Special="Return" />
+            <Key Cap=".?123" Glyph="" iPhoneIndex="-1" iPadIndex="4" Special="Numbers" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="5" Special="DismissKeyboard" />
+        </Row>
+        <Row CRLayout="|-9@500-[key0(90)]-16-[key1(90)]-16-[key2(90)]->=9@500-|"
+            CCLayout="|-10@500-[key0(170)]-19-[key1(170)]-19-[key2(170)]->=10@500-|"
+            Index="0" KeyboardType="4" >
+            <Key Cap="1" Glyph="1" iPhoneIndex="0" iPadIndex="0" SecondLine="" />
+            <Key Cap="2" Glyph="2" iPhoneIndex="1" iPadIndex="1" SecondLine="ABC" />
+            <Key Cap="3" Glyph="3" iPhoneIndex="2" iPadIndex="2" SecondLine="DEF" />
+        </Row>
+        <Row CRLayout="|-9@500-[key0(90)]-16-[key1(90)]-16-[key2(90)]->=9@500-|"
+            CCLayout="|-10@500-[key0(170)]-19-[key1(170)]-19-[key2(170)]->=10@500-|"
+            Index="1" KeyboardType="4" >
+            <Key Cap="4" Glyph="4" iPhoneIndex="0" iPadIndex="0" SecondLine="GHI" />
+            <Key Cap="5" Glyph="5" iPhoneIndex="1" iPadIndex="1" SecondLine="JKL" />
+            <Key Cap="6" Glyph="6" iPhoneIndex="2" iPadIndex="2" SecondLine="MNO" />
+        </Row>
+        <Row CRLayout="|-9@500-[key0(90)]-16-[key1(90)]-16-[key2(90)]->=9@500-|"
+            CCLayout="|-10@500-[key0(170)]-19-[key1(170)]-19-[key2(170)]->=10@500-|"
+            Index="2" KeyboardType="4" >
+            <Key Cap="7" Glyph="7" iPhoneIndex="0" iPadIndex="0" SecondLine="PQRS" />
+            <Key Cap="8" Glyph="8" iPhoneIndex="1" iPadIndex="1" SecondLine="TUV" />
+            <Key Cap="9" Glyph="9" iPhoneIndex="2" iPadIndex="2" SecondLine="WXYZ" />
+        </Row>
+        <Row CRLayout="|-9@500-[key0(90)]-16-[key1(90)]-16-[key2(90)]->=9@500-|"
+            CCLayout="|-10@500-[key0(170)]-19-[key1(170)]-19-[key2(170)]->=10@500-|"
+            Index="3" KeyboardType="4" >
+            <Key Cap="" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="SwitchKeyboards" />
+            <Key Cap="0" Glyph="0" iPhoneIndex="1" iPadIndex="1" SecondLine="" />
+            <Key Cap="⌫" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="Delete" />
+        </Row>
+        <Row CRLayout="|-9@500-[key0(90)]-16-[key1(90)]-16-[key2(90)]->=9@500-|"
+            CCLayout="|-10@500-[key0(170)]-19-[key1(170)]-19-[key2(170)]->=10@500-|"
+            Index="0" KeyboardType="8" >
+            <Key Cap="1" Glyph="1" iPhoneIndex="0" iPadIndex="0" SecondLine="" />
+            <Key Cap="2" Glyph="2" iPhoneIndex="1" iPadIndex="1" SecondLine="ABC" />
+            <Key Cap="3" Glyph="3" iPhoneIndex="2" iPadIndex="2" SecondLine="DEF" />
+        </Row>
+        <Row CRLayout="|-9@500-[key0(90)]-16-[key1(90)]-16-[key2(90)]->=9@500-|"
+            CCLayout="|-10@500-[key0(170)]-19-[key1(170)]-19-[key2(170)]->=10@500-|"
+            Index="1" KeyboardType="8" >
+            <Key Cap="4" Glyph="4" iPhoneIndex="0" iPadIndex="0" SecondLine="GHI" />
+            <Key Cap="5" Glyph="5" iPhoneIndex="1" iPadIndex="1" SecondLine="JKL" />
+            <Key Cap="6" Glyph="6" iPhoneIndex="2" iPadIndex="2" SecondLine="MNO" />
+        </Row>
+        <Row CRLayout="|-9@500-[key0(90)]-16-[key1(90)]-16-[key2(90)]->=9@500-|"
+            CCLayout="|-10@500-[key0(170)]-19-[key1(170)]-19-[key2(170)]->=10@500-|"
+            Index="2" KeyboardType="8" >
+            <Key Cap="7" Glyph="7" iPhoneIndex="0" iPadIndex="0" SecondLine="PQRS" />
+            <Key Cap="8" Glyph="8" iPhoneIndex="1" iPadIndex="1" SecondLine="TUV" />
+            <Key Cap="9" Glyph="9" iPhoneIndex="2" iPadIndex="2" SecondLine="WXYZ" />
+        </Row>
+        <Row CRLayout="|-9@500-[key0(40)]-10-[key1(40)]-16-[key2(90)]-16-[key3(90)]->=9@500-|"
+            CCLayout="|-10@500-[key0(79)]-12-[key1(79)]-19-[key2(170)]-19-[key3(170)]->=10@500-|"
+            Index="3" KeyboardType="8" >
+            <Key Cap="" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="SwitchKeyboards" />
+            <Key Cap="." Glyph="." iPhoneIndex="1" iPadIndex="1" />
+            <Key Cap="0" Glyph="0" iPhoneIndex="2" iPadIndex="2" SecondLine="" />
+            <Key Cap="⌫" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Delete" />
+        </Row>
+    </Keyface>
+	<Keyface Type="Shifted" Layout="Español" CRLayout="V:|->=9-[row0(41)]-13-[row1(41)]-13-[row2(41)]-12-[row3(41)]-3@500-|"
+        CCLayout="V:|->=6-[row0(33)]-7-[row1(33)]-7-[row2(33)]-7-[row3(33)]-3@500-|"
+        RRPLayout="V:|->=7-[row0(58)]-8-[row1(56)]-8-[row2(56)]-8-[row3(56)]-7@500-|"
+        RRLLayout="V:|->=10-[row0(75)]-11-[row1(75)]-11-[row2(75)]-11-[row3(75)]-9@500-|">
+        <Row CRLayout="|-3@500-[key0(26)]-6-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-6-[key8(26)]-6-[key9(26)]->=3@500-|"
+             CCLayout="|-3@500-[key0(51)]-5-[key1(52)]-5-[key2(52)]-5-[key3(52)]-5-[key4(51)]-6-[key5(51)]-5-[key6(52)]-5-[key7(52)]-5-[key8(52)]-5-[key9(51)]->=3@500-|"
+             RRPLayout="|-6@500-[key0(55)]-12-[key1(55)]-12-[key2(55)]-12-[key3(55)]-12-[key4(55)]-12-[key5(55)]-12-[key6(55)]-12-[key7(55)]-12-[key8(55)]-12-[key9(55)]-13-[key10(85)]->=6@500-|"
+             RRLLayout="|-7@500-[key0(75)]-14-[key1(75)]-14-[key2(75)]-14-[key3(75)]-14-[key4(75)]-14-[key5(75)]-14-[key6(75)]-14-[key7(75)]-14-[key8(75)]-14-[key9(75)]-14-[key10(120)]->=7@500-|"
+             Index="0">
+			<Key Cap="Q" Glyph="Q" iPhoneIndex="0" iPadIndex="0" />
+			<Key Cap="W" Glyph="W" iPhoneIndex="1" iPadIndex="1" />
+			<Key Cap="E" Glyph="E" iPhoneIndex="2" iPadIndex="2" Alternates="EÉÈËÊĘĖĒ" />
+			<Key Cap="R" Glyph="R" iPhoneIndex="3" iPadIndex="3" />
+			<Key Cap="T" Glyph="T" iPhoneIndex="4" iPadIndex="4" />
+			<Key Cap="Y" Glyph="Y" iPhoneIndex="5" iPadIndex="5" />
+			<Key Cap="U" Glyph="U" iPhoneIndex="6" iPadIndex="6" Alternates="UÚÜÙÛŪ" />
+			<Key Cap="I" Glyph="I" iPhoneIndex="7" iPadIndex="7" Alternates="IÍÏÌÎĮĪ" />
+			<Key Cap="O" Glyph="O" iPhoneIndex="8" iPadIndex="8" Alternates="OÓÒÖÔÕØŒŌ°" />
+			<Key Cap="P" Glyph="P" iPhoneIndex="9" iPadIndex="9" />
+            <Key Cap="⌫" Glyph="" iPhoneIndex="-1" iPadIndex="10" Special="Delete" />
+		</Row>
+        <Row CRLayout="|-3@500-[key0(26)]-6-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-6-[key8(26)]-6-[key9(26)]->=3@500-|"
+            CCLayout="|-3@500-[key0(51)]-5-[key1(52)]-5-[key2(52)]-5-[key3(52)]-5-[key4(51)]-6-[key5(51)]-5-[key6(52)]-5-[key7(52)]-5-[key8(52)]-5-[key9(51)]->=3@500-|"
+            RRPLayout="|-16@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(56)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]-12-[key7(56)]-12-[key8(56)]-12-[key9(56)]-12-[key10(66)]->=6@500-|"
+            RRLLayout="|-21@500-[key0(77)]-14-[key1(76)]-14-[key2(77)]-14-[key3(76)]-14-[key4(77)]-14-[key5(76)]-14-[key6(77)]-14-[key7(76)]-14-[key8(77)]-14-[key9(76)]-8-[key10(97)]->=7@500-|"
+             Index="1">
+			<Key Cap="A" Glyph="A" iPhoneIndex="0" iPadIndex="0" Alternates="AÀÁÄÂÃÅĄÆĀᵃ" />
+			<Key Cap="S" Glyph="S" iPhoneIndex="1" iPadIndex="1" Alternates="SŠ" />
+			<Key Cap="D" Glyph="D" iPhoneIndex="2" iPadIndex="2" Alternates="DĐ" />
+			<Key Cap="F" Glyph="F" iPhoneIndex="3" iPadIndex="3" />
+			<Key Cap="G" Glyph="G" iPhoneIndex="4" iPadIndex="4" />
+			<Key Cap="H" Glyph="H" iPhoneIndex="5" iPadIndex="5" />
+			<Key Cap="J" Glyph="J" iPhoneIndex="6" iPadIndex="6" />
+			<Key Cap="K" Glyph="K" iPhoneIndex="7" iPadIndex="7" />
+			<Key Cap="L" Glyph="L" iPhoneIndex="8" iPadIndex="8" />
+            <Key Cap="Ñ" Glyph="Ñ" iPhoneIndex="9" iPadIndex="9" />
+            <Key Cap="intro" Glyph="" iPhoneIndex="-1" iPadIndex="10" Special="Return" />
+		</Row>
+        <Row CRLayout="|-3@500-[key0(36)]-12-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-12-[key8(36)]->=3@500-|"
+             CCLayout="|-3@500-[key0(68)]-17-[key1(51)]-6-[key2(51)]-5-[key3(52)]-5-[key4(52)]-5-[key5(52)]-5-[key6(52)]-5-[key7(51)]-16-[key8(69)]->=3@500-|"
+             RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(56)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]-12-[key7(56)]-12-[key8(56)]-12-[key9(56)]-12-[key10(76)]->=6@500-|"
+             RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(76)]-14-[key3(77)]-14-[key4(76)]-14-[key5(77)]-14-[key6(76)]-14-[key7(77)]-14-[key8(76)]-14-[key9(76)]-14-[key10(105)]->=7@500-|"
+             Index="2">
+			<Key Cap="⇧" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Shift" />
+			<Key Cap="Z" Glyph="Z" iPhoneIndex="1" iPadIndex="1" />
+			<Key Cap="X" Glyph="X" iPhoneIndex="2" iPadIndex="2" />
+			<Key Cap="C" Glyph="C" iPhoneIndex="3" iPadIndex="3" Alternates="CÇĆČ" />
+			<Key Cap="V" Glyph="V" iPhoneIndex="4" iPadIndex="4" />
+			<Key Cap="B" Glyph="B" iPhoneIndex="5" iPadIndex="5" />
+			<Key Cap="N" Glyph="N" iPhoneIndex="6" iPadIndex="6" Alternates="NŃ" />
+			<Key Cap="M" Glyph="M" iPhoneIndex="7" iPadIndex="7" />
+			<Key Cap="⌫" Glyph="" iPhoneIndex="8" iPadIndex="-1" Special="Delete" />
+            <Key Cap="!" Glyph="!" iPhoneIndex="-1" iPadIndex="8" Alternates="!¡" />
+            <Key Cap="?" Glyph="?" iPhoneIndex="-1" iPadIndex="9" Alternates="?¿" />
+            <Key Cap="" Glyph="" iPhoneIndex="-1" iPadIndex="10" Special="Shift" />
+		</Row>
+        <Row CRLayout="|-3@500-[key0(36)]-12-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-12-[key8(36)]->=3@500-|"
+            CCLayout="|-3@500-[key0(68)]-17-[key1(51)]-6-[key2(51)]-5-[key3(52)]-5-[key4(52)]-5-[key5(52)]-5-[key6(52)]-5-[key7(51)]-16-[key8(69)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(56)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]-12-[key7(56)]-12-[key8(56)]-12-[key9(56)]-12-[key10(76)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(76)]-14-[key3(77)]-14-[key4(76)]-14-[key5(77)]-14-[key6(76)]-14-[key7(77)]-14-[key8(76)]-14-[key9(76)]-14-[key10(105)]->=7@500-|"
+            Index="2" KeyboardType="7">
+            <Key Cap="⇧" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Shift" />
+            <Key Cap="Z" Glyph="Z" iPhoneIndex="1" iPadIndex="1" />
+            <Key Cap="X" Glyph="X" iPhoneIndex="2" iPadIndex="2" />
+            <Key Cap="C" Glyph="C" iPhoneIndex="3" iPadIndex="3" Alternates="CÇĆČ" />
+            <Key Cap="V" Glyph="V" iPhoneIndex="4" iPadIndex="4" />
+            <Key Cap="B" Glyph="B" iPhoneIndex="5" iPadIndex="5" />
+            <Key Cap="N" Glyph="N" iPhoneIndex="6" iPadIndex="6" Alternates="NÑŃ" />
+            <Key Cap="M" Glyph="M" iPhoneIndex="7" iPadIndex="7" />
+            <Key Cap="⌫" Glyph="" iPhoneIndex="8" iPadIndex="-1" Special="Delete" />
+            <Key Cap="@" Glyph="@" iPhoneIndex="-1" iPadIndex="8" />
+            <Key Cap="." Glyph="." iPhoneIndex="-1" iPadIndex="9" />
+            <Key Cap="" Glyph="" iPhoneIndex="-1" iPadIndex="10" Special="Shift" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(122)]-6-[key4(74)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(277)]-7-[key4(107)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(396)]-12-[key4(76)]-12-[key5(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(467)]-14-[key4(105)]-14-[key5(76)]->=7@500-|"
+             Index="3">
+            <Key Cap="123" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Numbers" />
+            <Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+            <Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+            <Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+            <Key Cap="intro" Glyph="" iPhoneIndex="4" iPadIndex="-1" Special="Return" />
+            <Key Cap=".?123" Glyph="" iPhoneIndex="-1" iPadIndex="4" Special="Numbers" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="5" Special="DismissKeyboard" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(42)]-6-[key4(34)]-6-[key5(34)]-6-[key6(74)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(137)]-6-[key4(64)]-6-[key5(64)]-7-[key6(107)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(348)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(467)]-14-[key4(76)]-14-[key5(76)]-14-[key6(76)]->=7@500-|"
+            Index="3" KeyboardType="7">
+            <Key Cap="123" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Numbers" />
+            <Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+            <Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+            <Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+            <Key Cap="@" Glyph="@" iPhoneIndex="4" iPadIndex="-1" />
+            <Key Cap="." Glyph="." iPhoneIndex="5" iPadIndex="-1" Alternates="|.|.com|.net|.edu|.org|.es|.mx"/>
+            <Key Cap="_" Glyph="_" iPhoneIndex="-1" iPadIndex="4" />
+            <Key Cap="-" Glyph="-" iPhoneIndex="-1" iPadIndex="5" />
+            <Key Cap="intro" Glyph="" iPhoneIndex="6" iPadIndex="-1" Special="Return" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="6" Special="DismissKeyboard" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(122)]-6-[key4(34)]-6-[key5(34)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(277)]-6-[key4(50)]-6-[key5(50)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(348)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(467)]-14-[key4(76)]-14-[key5(76)]-14-[key6(76)]->=7@500-|"
+            Index="3" KeyboardType="9">
+            <Key Cap="123" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Numbers" />
+            <Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+            <Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+            <Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+            <Key Cap="@" Glyph="@" iPhoneIndex="4" iPadIndex="4" />
+            <Key Cap="#" Glyph="#" iPhoneIndex="5" iPadIndex="5" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="6" Special="DismissKeyboard" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(112)]-6-[key4(34)]-6-[key5(44)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(221)]-6-[key4(50)]-7-[key5(107)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(386)]-12-[key4(76)]-12-[key5(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(528)]-14-[key4(105)]-14-[key5(76)]->=7@500-|"
+             Index="3" KeyboardType="10">
+            <Key Cap="123" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Numbers" />
+            <Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+            <Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+            <Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+            <Key Cap="." Glyph="." iPhoneIndex="4" iPadIndex="-1" Alternates="|.|.com|.net|.edu|.org|.es|.mx"/>
+            <Key Cap="intro" Glyph="" iPhoneIndex="5" iPadIndex="-1" Special="Return" />
+            <Key Cap=".?123" Glyph="" iPhoneIndex="-1" iPadIndex="4" Special="Numbers" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="5" Special="DismissKeyboard" />
+        </Row>		
+	</Keyface>
+    <Keyface Type="Numbers" CRLayout="V:|->=9-[row0(41)]-13-[row1(41)]-13-[row2(41)]-12-[row3(41)]-3@500-|"
+        CCLayout="V:|->=6-[row0(33)]-7-[row1(33)]-7-[row2(33)]-7-[row3(33)]-3@500-|"
+        RRPLayout="V:|->=7-[row0(58)]-8-[row1(56)]-8-[row2(56)]-8-[row3(56)]-7@500-|"
+        RRLLayout="V:|->=10-[row0(75)]-11-[row1(75)]-11-[row2(75)]-11-[row3(75)]-9@500-|">
+        <Row CRLayout="|-3@500-[key0(26)]-6-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-6-[key8(26)]-6-[key9(26)]->=3@500-|"
+             CCLayout="|-3@500-[key0(51)]-5-[key1(52)]-5-[key2(52)]-5-[key3(52)]-5-[key4(51)]-6-[key5(51)]-5-[key6(52)]-5-[key7(52)]-5-[key8(52)]-5-[key9(51)]->=3@500-|"
+             RRPLayout="|-6@500-[key0(57)]-12-[key1(58)]-12-[key2(57)]-12-[key3(58)]-12-[key4(57)]-12-[key5(58)]-12-[key6(57)]-12-[key7(58)]-12-[key8(57)]-12-[key9(58)]-12-[key10(61)]->=6@500-|"
+             RRLLayout="|-7@500-[key0(79)]-14-[key1(79)]-14-[key2(79)]-14-[key3(79)]-14-[key4(79)]-14-[key5(79)]-14-[key6(79)]-14-[key7(79)]-14-[key8(79)]-14-[key9(79)]-14-[key10(80)]->=7@500-|"
+             Index="0">
+			<Key Cap="1" Glyph="1" iPhoneIndex="0" iPadIndex="0" />
+			<Key Cap="2" Glyph="2" iPhoneIndex="1" iPadIndex="1" />
+			<Key Cap="3" Glyph="3" iPhoneIndex="2" iPadIndex="2" />
+			<Key Cap="4" Glyph="4" iPhoneIndex="3" iPadIndex="3" />
+			<Key Cap="5" Glyph="5" iPhoneIndex="4" iPadIndex="4" />
+			<Key Cap="6" Glyph="6" iPhoneIndex="5" iPadIndex="5" />
+			<Key Cap="7" Glyph="7" iPhoneIndex="6" iPadIndex="6" />
+			<Key Cap="8" Glyph="8" iPhoneIndex="7" iPadIndex="7" />
+			<Key Cap="9" Glyph="9" iPhoneIndex="8" iPadIndex="8" />
+			<Key Cap="0" Glyph="0" iPhoneIndex="9" iPadIndex="9" Alternates="0°" />
+            <Key Cap="⌫" Glyph="" iPhoneIndex="-1" iPadIndex="10" Special="Delete" />
+		</Row>
+        <Row CRLayout="|-3@500-[key0(26)]-6-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-6-[key8(26)]-6-[key9(26)]->=3@500-|"
+             CCLayout="|-3@500-[key0(51)]-5-[key1(52)]-5-[key2(52)]-5-[key3(52)]-5-[key4(51)]-6-[key5(51)]-5-[key6(52)]-5-[key7(52)]-5-[key8(52)]-5-[key9(51)]->=3@500-|"
+             RRPLayout="|-35@500-[key0(57)]-12-[key1(57)]-12-[key2(57)]-12-[key3(57)]-12-[key4(57)]-12-[key5(57)]-12-[key6(57)]-12-[key7(57)]-12-[key8(57)]-12-[key9(106)]->=6@500-|"
+             RRLLayout="|-45@500-[key0(78)]-14-[key1(78)]-14-[key2(78)]-14-[key3(78)]-14-[key4(78)]-14-[key5(78)]-14-[key6(78)]-14-[key7(78)]-14-[key8(78)]-14-[key9(144)]->=7@500-|"
+             Index="1">
+			<Key Cap="-" Glyph="-" iPhoneIndex="0" iPadIndex="0" Alternates="-–—•" />
+			<Key Cap="/" Glyph="/" iPhoneIndex="1" iPadIndex="1" Alternates="/\" />
+			<Key Cap=":" Glyph=":" iPhoneIndex="2" iPadIndex="2" />
+			<Key Cap=";" Glyph=";" iPhoneIndex="3" iPadIndex="3" />
+			<Key Cap="(" Glyph="(" iPhoneIndex="4" iPadIndex="4" />
+			<Key Cap=")" Glyph=")" iPhoneIndex="5" iPadIndex="5" />
+			<Key Cap="$" Glyph="$" iPhoneIndex="6" iPadIndex="6" Alternates="$¥€$¢£₩" />
+			<Key Cap="&amp;" Glyph="&amp;" iPhoneIndex="7" iPadIndex="7" Alternates="&amp;§" />
+			<Key Cap="@" Glyph="@" iPhoneIndex="8" iPadIndex="8" />
+			<Key Cap="”" Glyph="&quot;" iPhoneIndex="9" iPadIndex="-1" Alternates="&quot;“”„»«" />
+            <Key Cap="intro" Glyph="" iPhoneIndex="-1" iPadIndex="9" Special="Return" />
+		</Row>
+        <Row CRLayout="|-7@500-[key0(33)]-6-[key1(33)]-6-[key2(33)]-6-[key3(33)]-6-[key4(33)]-6-[key5(33)]-6-[key6(33)]-6-[key7(33)]->=7@500-|"
+            CCLayout="|-10@500-[key0(62)]-7-[key1(61)]-7-[key2(64)]-7-[key3(64)]-7-[key4(62)]-7-[key5(62)]-7-[key6(62)]-7-[key7(62)]->=10@500-|"
+            RRPLayout="|-35@500-[key0(57)]-12-[key1(57)]-12-[key2(57)]-12-[key3(57)]-12-[key4(57)]-12-[key5(57)]-12-[key6(57)]-12-[key7(57)]-12-[key8(57)]-12-[key9(106)]->=6@500-|"
+            RRLLayout="|-45@500-[key0(78)]-14-[key1(78)]-14-[key2(78)]-14-[key3(78)]-14-[key4(78)]-14-[key5(78)]-14-[key6(78)]-14-[key7(78)]-14-[key8(78)]-14-[key9(144)]->=7@500-|"
+            Index="1" KeyboardType="7">
+            <Key Cap="$" Glyph="$" iPhoneIndex="0" iPadIndex="-1" Alternates="$¥€$¢£₩" />
+            <Key Cap="!" Glyph="!" iPhoneIndex="1" iPadIndex="-1" Alternates="!¡" />
+            <Key Cap="~" Glyph="~" iPhoneIndex="2" iPadIndex="-1" />
+            <Key Cap="&amp;" Glyph="&amp;" iPhoneIndex="3" iPadIndex="-1" Alternates="&amp;§" />
+            <Key Cap="=" Glyph="=" iPhoneIndex="4" iPadIndex="-1" />
+            <Key Cap="#" Glyph="#" iPhoneIndex="5" iPadIndex="-1" />
+            <Key Cap="[" Glyph="[" iPhoneIndex="6" iPadIndex="-1" />
+            <Key Cap="]" Glyph="]" iPhoneIndex="7" iPadIndex="-1" />
+            <Key Cap="`" Glyph="`" iPhoneIndex="-1" iPadIndex="0" />
+            <Key Cap="|" Glyph="|" iPhoneIndex="-1" iPadIndex="1" />
+            <Key Cap="{" Glyph="{" iPhoneIndex="-1" iPadIndex="2" />
+            <Key Cap="}" Glyph="}" iPhoneIndex="-1" iPadIndex="3" />
+            <Key Cap="%" Glyph="%" iPhoneIndex="-1" iPadIndex="4" Alternates="%‰" />
+            <Key Cap="^" Glyph="^" iPhoneIndex="-1" iPadIndex="5" />
+            <Key Cap="*" Glyph="*" iPhoneIndex="-1" iPadIndex="6" />
+            <Key Cap="/" Glyph="/" iPhoneIndex="-1" iPadIndex="7" Alternates="/\" />
+            <Key Cap="’" Glyph="'" iPhoneIndex="-1" iPadIndex="8" Alternates="'’‘" />
+            <Key Cap="”" Glyph="&quot;" iPhoneIndex="-1" iPadIndex="-1" Alternates="&quot;“”„»«" />
+            <Key Cap="intro" Glyph="" iPhoneIndex="-1" iPadIndex="9" Special="Return" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(36)]-12-[key1(39)]-5-[key2(40)]-5-[key3(40)]-5-[key4(40)]-5-[key5(39)]-12-[key6(36)]->=3@500-|"
+             CCLayout="|-3@500-[key0(68)]-17-[key1(74)]-5-[key2(75)]-5-[key3(74)]-5-[key4(75)]-5-[key5(74)]-16-[key6(69)]->=3@500-|"
+             RRPLayout="|-6@500-[key0(56)]-12-[key1(124)]-12-[key2(56)]-12-[key3(56)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]-12-[key7(56)]-80-[key8(76)]->=6@500-|"
+             RRLLayout="|-7@500-[key0(77)]-14-[key1(167)]-14-[key2(77)]-14-[key3(76)]-14-[key4(77)]-14-[key5(76)]-14-[key6(77)]-14-[key7(76)]-104-[key8(105)]->=7@500-|"
+             Index="2">
+			<Key Cap="#+=" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Symbols" />
+            <Key Cap="Deshacer" Glyph="" iPhoneIndex="-1" iPadIndex="1" Special="Undo" />
+			<Key Cap="." Glyph="." iPhoneIndex="1" iPadIndex="2" Alternates=".…" />
+			<Key Cap="," Glyph="," iPhoneIndex="2" iPadIndex="3" />
+			<Key Cap="?" Glyph="?" iPhoneIndex="3" iPadIndex="4" Alternates="?¿" />
+			<Key Cap="!" Glyph="!" iPhoneIndex="4" iPadIndex="5" Alternates="!¡" />
+			<Key Cap="’" Glyph="'" iPhoneIndex="5" iPadIndex="6" Alternates="'’‘`" />
+			<Key Cap="⌫" Glyph="" iPhoneIndex="6" iPadIndex="-1" Special="Delete" />
+            <Key Cap="”" Glyph="&quot;" iPhoneIndex="-1" iPadIndex="7" Alternates="&quot;“”„»«" />
+            <Key Cap="#+=" Glyph="" iPhoneIndex="-1" iPadIndex="8" Special="Symbols" />
+		</Row>
+        <Row CRLayout="|-3@500-[key0(36)]-14-[key1(49)]-6-[key2(49)]-6-[key3(49)]-6-[key4(49)]-14-[key5(36)]->=3@500-|"
+            CCLayout="|-3@500-[key0(68)]-21-[key1(90)]-8-[key2(90)]-8-[key3(90)]-8-[key4(90)]-20-[key5(69)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(124)]-12-[key2(56)]-12-[key3(56)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]-12-[key7(56)]-12-[key8(56)]-12-[key9(76)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(167)]-14-[key2(77)]-14-[key3(76)]-14-[key4(77)]-14-[key5(76)]-14-[key6(77)]-14-[key7(76)]-14-[key8(76)]-14-[key9(105)]->=7@500-|"
+            Index="2" KeyboardType="7">
+            <Key Cap="#+=" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Symbols" />
+            <Key Cap="." Glyph="." iPhoneIndex="1" iPadIndex="-1" Alternates=".…" />
+            <Key Cap="_" Glyph="_" iPhoneIndex="2" iPadIndex="-1" />
+            <Key Cap="-" Glyph="-" iPhoneIndex="3" iPadIndex="-1" Alternates="-–—•" />
+            <Key Cap="+" Glyph="+" iPhoneIndex="4" iPadIndex="-1" />
+            <Key Cap="⌫" Glyph="" iPhoneIndex="5" iPadIndex="-1" Special="Delete" />
+            <Key Cap="Deshacer" Glyph="" iPhoneIndex="-1" iPadIndex="1" Special="Undo" />
+            <Key Cap="$" Glyph="$" iPhoneIndex="-1" iPadIndex="2" Alternates="$¥€$¢£₩" />
+            <Key Cap="&amp;" Glyph="&amp;" iPhoneIndex="-1" iPadIndex="3" Alternates="&amp;§" />
+            <Key Cap="~" Glyph="~" iPhoneIndex="-1" iPadIndex="4" />
+            <Key Cap="#" Glyph="#" iPhoneIndex="-1" iPadIndex="5" />
+            <Key Cap="=" Glyph="=" iPhoneIndex="-1" iPadIndex="6" />
+            <Key Cap="+" Glyph="+" iPhoneIndex="-1" iPadIndex="7" />
+            <Key Cap="." Glyph="." iPhoneIndex="-1" iPadIndex="8" Alternates="|.|.com|.net|.edu|.org|.es|.mx" />
+            <Key Cap="#+=" Glyph="" iPhoneIndex="-1" iPadIndex="9" Special="Symbols" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(122)]-6-[key4(74)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(277)]-7-[key4(107)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(396)]-12-[key4(76)]-12-[key5(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(467)]-14-[key4(105)]-14-[key5(76)]->=7@500-|"
+             Index="3">
+            <Key Cap="ABC" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Letters" />
+            <Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+            <Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+            <Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+            <Key Cap="intro" Glyph="" iPhoneIndex="4" iPadIndex="-1" Special="Return" />
+            <Key Cap="ABC" Glyph="" iPhoneIndex="-1" iPadIndex="4" Special="Letters" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="5" Special="DismissKeyboard" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(42)]-6-[key4(34)]-6-[key5(34)]-6-[key6(74)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(137)]-6-[key4(64)]-6-[key5(64)]-7-[key6(107)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(348)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(467)]-14-[key4(76)]-14-[key5(76)]-14-[key6(76)]->=7@500-|"
+            Index="3" KeyboardType="7">
+            <Key Cap="ABC" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Letters" />
+            <Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+            <Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+            <Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+            <Key Cap="@" Glyph="@" iPhoneIndex="4" iPadIndex="-1" />
+            <Key Cap="." Glyph="." iPhoneIndex="5" iPadIndex="-1" Alternates="|.|.com|.net|.edu|.org|.es|.mx"/>
+            <Key Cap="!" Glyph="!" iPhoneIndex="-1" iPadIndex="4" Alternates="!¡" />
+            <Key Cap="?" Glyph="?" iPhoneIndex="-1" iPadIndex="5" Alternates="?¿" />
+            <Key Cap="intro" Glyph="" iPhoneIndex="6" iPadIndex="-1" Special="Return" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="6" Special="DismissKeyboard" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(112)]-6-[key4(34)]-6-[key5(44)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(221)]-6-[key4(50)]-7-[key5(107)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(386)]-12-[key4(76)]-12-[key5(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(528)]-14-[key4(105)]-14-[key5(76)]->=7@500-|"
+             Index="3" KeyboardType="10">
+            <Key Cap="ABC" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Letters" />
+            <Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+            <Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+            <Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+            <Key Cap="." Glyph="." iPhoneIndex="4" iPadIndex="-1" Alternates="|.|.com|.net|.edu|.org|.es|.mx"/>
+            <Key Cap="intro" Glyph="" iPhoneIndex="5" iPadIndex="-1" Special="Return" />
+            <Key Cap="ABC" Glyph="" iPhoneIndex="-1" iPadIndex="4" Special="Letters" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="5" Special="DismissKeyboard" />
+        </Row>		
+	</Keyface>
+    <Keyface Type="Symbols" CRLayout="V:|->=9-[row0(41)]-13-[row1(41)]-13-[row2(41)]-12-[row3(41)]-3@500-|"
+        CCLayout="V:|->=6-[row0(33)]-7-[row1(33)]-7-[row2(33)]-7-[row3(33)]-3@500-|"
+        RRPLayout="V:|->=7-[row0(58)]-8-[row1(56)]-8-[row2(56)]-8-[row3(56)]-7@500-|"
+        RRLLayout="V:|->=10-[row0(75)]-11-[row1(75)]-11-[row2(75)]-11-[row3(75)]-9@500-|">
+        <Row CRLayout="|-3@500-[key0(26)]-6-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-6-[key8(26)]-6-[key9(26)]->=3@500-|"
+            CCLayout="|-3@500-[key0(51)]-5-[key1(52)]-5-[key2(52)]-5-[key3(52)]-5-[key4(51)]-6-[key5(51)]-5-[key6(52)]-5-[key7(52)]-5-[key8(52)]-5-[key9(51)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(57)]-12-[key1(58)]-12-[key2(57)]-12-[key3(58)]-12-[key4(57)]-12-[key5(58)]-12-[key6(57)]-12-[key7(58)]-12-[key8(57)]-12-[key9(58)]-12-[key10(61)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(79)]-14-[key1(79)]-14-[key2(79)]-14-[key3(79)]-14-[key4(79)]-14-[key5(79)]-14-[key6(79)]-14-[key7(79)]-14-[key8(79)]-14-[key9(79)]-14-[key10(80)]->=7@500-|"
+            Index="0">
+			<Key Cap="[" Glyph="[" iPhoneIndex="0" iPadIndex="0" />
+			<Key Cap="]" Glyph="]" iPhoneIndex="1" iPadIndex="1" />
+			<Key Cap="{" Glyph="{" iPhoneIndex="2" iPadIndex="2" />
+			<Key Cap="}" Glyph="}" iPhoneIndex="3" iPadIndex="3" />
+			<Key Cap="#" Glyph="#" iPhoneIndex="4" iPadIndex="4" />
+			<Key Cap="%" Glyph="%" iPhoneIndex="5" iPadIndex="5" Alternates="%‰" />
+			<Key Cap="^" Glyph="^" iPhoneIndex="6" iPadIndex="6" />
+			<Key Cap="*" Glyph="*" iPhoneIndex="7" iPadIndex="7" />
+			<Key Cap="+" Glyph="+" iPhoneIndex="8" iPadIndex="8" />
+			<Key Cap="=" Glyph="=" iPhoneIndex="9" iPadIndex="9" />
+            <Key Cap="⌫" Glyph="" iPhoneIndex="-1" iPadIndex="10" Special="Delete" />
+		</Row>
+        <Row CRLayout="|-3@500-[key0(26)]-6-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-6-[key8(26)]-6-[key9(26)]->=3@500-|"
+            CCLayout="|-3@500-[key0(51)]-5-[key1(52)]-5-[key2(52)]-5-[key3(52)]-5-[key4(51)]-6-[key5(51)]-5-[key6(52)]-5-[key7(52)]-5-[key8(52)]-5-[key9(51)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(57)]-12-[key1(58)]-12-[key2(57)]-12-[key3(58)]-12-[key4(57)]-12-[key5(58)]-12-[key6(57)]-12-[key7(58)]-12-[key8(57)]-12-[key9(58)]-12-[key10(61)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(79)]-14-[key1(79)]-14-[key2(79)]-14-[key3(79)]-14-[key4(79)]-14-[key5(79)]-14-[key6(79)]-14-[key7(79)]-14-[key8(79)]-14-[key9(79)]-14-[key10(80)]->=7@500-|"
+            Index="0" KeyboardType="7">
+            <Key Cap="`" Glyph="`" iPhoneIndex="0" iPadIndex="-1" />
+            <Key Cap="|" Glyph="|" iPhoneIndex="1" iPadIndex="-1" />
+            <Key Cap="{" Glyph="{" iPhoneIndex="2" iPadIndex="-1" />
+            <Key Cap="}" Glyph="}" iPhoneIndex="3" iPadIndex="-1" />
+            <Key Cap="?" Glyph="?" iPhoneIndex="4" iPadIndex="-1" Alternates="?¿" />
+            <Key Cap="%" Glyph="%" iPhoneIndex="5" iPadIndex="-1" Alternates="%‰" />
+            <Key Cap="^" Glyph="^" iPhoneIndex="6" iPadIndex="-1" />
+            <Key Cap="*" Glyph="*" iPhoneIndex="7" iPadIndex="-1" />
+            <Key Cap="/" Glyph="/" iPhoneIndex="8" iPadIndex="-1" Alternates="/\" />
+            <Key Cap="’" Glyph="'" iPhoneIndex="9" iPadIndex="-1" Alternates="'’‘" />
+            <Key Cap="[" Glyph="[" iPhoneIndex="-1" iPadIndex="0" />
+            <Key Cap="]" Glyph="]" iPhoneIndex="-1" iPadIndex="1" />
+            <Key Cap="{" Glyph="{" iPhoneIndex="-1" iPadIndex="2" />
+            <Key Cap="}" Glyph="}" iPhoneIndex="-1" iPadIndex="3" />
+            <Key Cap="‹" Glyph="‹" iPhoneIndex="-1" iPadIndex="4" />
+            <Key Cap="›" Glyph="›" iPhoneIndex="-1" iPadIndex="5" />
+            <Key Cap="^" Glyph="^" iPhoneIndex="-1" iPadIndex="6" />
+            <Key Cap="*" Glyph="*" iPhoneIndex="-1" iPadIndex="7" />
+            <Key Cap="”" Glyph="&quot;" iPhoneIndex="-1" iPadIndex="8" Alternates="&quot;“”„»«" />
+            <Key Cap="," Glyph="," iPhoneIndex="-1" iPadIndex="9" />
+            <Key Cap="⌫" Glyph="" iPhoneIndex="-1" iPadIndex="10" Special="Delete" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(26)]-6-[key1(26)]-6-[key2(26)]-6-[key3(26)]-6-[key4(26)]-6-[key5(26)]-6-[key6(26)]-6-[key7(26)]-6-[key8(26)]-6-[key9(26)]->=3@500-|"
+             CCLayout="|-3@500-[key0(51)]-5-[key1(52)]-5-[key2(52)]-5-[key3(52)]-5-[key4(51)]-6-[key5(51)]-5-[key6(52)]-5-[key7(52)]-5-[key8(52)]-5-[key9(51)]->=3@500-|"
+             RRPLayout="|-35@500-[key0(57)]-12-[key1(57)]-12-[key2(57)]-12-[key3(57)]-12-[key4(57)]-12-[key5(57)]-12-[key6(57)]-12-[key7(57)]-12-[key8(57)]-12-[key9(106)]->=6@500-|"
+             RRLLayout="|-45@500-[key0(78)]-14-[key1(78)]-14-[key2(78)]-14-[key3(78)]-14-[key4(78)]-14-[key5(78)]-14-[key6(78)]-14-[key7(78)]-14-[key8(78)]-14-[key9(144)]->=7@500-|"
+             Index="1">
+			<Key Cap="_" Glyph="_" iPhoneIndex="0" iPadIndex="0" />
+			<Key Cap="\" Glyph="\" iPhoneIndex="1" iPadIndex="1" />
+			<Key Cap="|" Glyph="|" iPhoneIndex="2" iPadIndex="2" />
+			<Key Cap="~" Glyph="~" iPhoneIndex="3" iPadIndex="3" />
+			<Key Cap="&lt;" Glyph="&lt;" iPhoneIndex="4" iPadIndex="4"  />
+			<Key Cap="&gt;" Glyph="&gt;" iPhoneIndex="5" iPadIndex="5" />
+			<Key Cap="€" Glyph="€" iPhoneIndex="6" iPadIndex="6" />
+			<Key Cap="£" Glyph="£" iPhoneIndex="7" iPadIndex="7" />
+			<Key Cap="¥" Glyph="¥" iPhoneIndex="8" iPadIndex="8" />
+			<Key Cap="•" Glyph="•" iPhoneIndex="9" iPadIndex="-1" />
+            <Key Cap="intro" Glyph="" iPhoneIndex="-1" iPadIndex="9" Special="Return" />
+		</Row>
+        <Row CRLayout="|-7@500-[key0(33)]-6-[key1(33)]-6-[key2(33)]-6-[key3(33)]-6-[key4(33)]-6-[key5(33)]-6-[key6(33)]-6-[key7(33)]->=7@500-|"
+            CCLayout="|-10@500-[key0(62)]-7-[key1(61)]-7-[key2(64)]-7-[key3(64)]-7-[key4(62)]-7-[key5(62)]-7-[key6(62)]-7-[key7(62)]->=10@500-|"
+            RRPLayout="|-35@500-[key0(57)]-12-[key1(57)]-12-[key2(57)]-12-[key3(57)]-12-[key4(57)]-12-[key5(57)]-12-[key6(57)]-12-[key7(57)]-12-[key8(57)]-12-[key9(106)]->=6@500-|"
+            RRLLayout="|-45@500-[key0(78)]-14-[key1(78)]-14-[key2(78)]-14-[key3(78)]-14-[key4(78)]-14-[key5(78)]-14-[key6(78)]-14-[key7(78)]-14-[key8(78)]-14-[key9(144)]->=7@500-|"
+            Index="1" KeyboardType="7">
+            <Key Cap="$" Glyph="$" iPhoneIndex="0" iPadIndex="-1" Alternates="$¥€$¢£₩" />
+            <Key Cap="!" Glyph="!" iPhoneIndex="1" iPadIndex="-1" Alternates="!¡" />
+            <Key Cap="~" Glyph="~" iPhoneIndex="2" iPadIndex="-1" />
+            <Key Cap="&amp;" Glyph="&amp;" iPhoneIndex="3" iPadIndex="-1" Alternates="&amp;§" />
+            <Key Cap="=" Glyph="=" iPhoneIndex="4" iPadIndex="-1" />
+            <Key Cap="#" Glyph="#" iPhoneIndex="5" iPadIndex="-1" />
+            <Key Cap="[" Glyph="[" iPhoneIndex="6" iPadIndex="-1" />
+            <Key Cap="]" Glyph="]" iPhoneIndex="7" iPadIndex="-1" />
+            <Key Cap="\" Glyph="\" iPhoneIndex="-1" iPadIndex="0" />
+            <Key Cap="|" Glyph="|" iPhoneIndex="-1" iPadIndex="1" />
+            <Key Cap="/" Glyph="/" iPhoneIndex="-1" iPadIndex="2" />
+            <Key Cap="&lt;" Glyph="&lt;" iPhoneIndex="-1" iPadIndex="3" />
+            <Key Cap="&gt;" Glyph="&gt;" iPhoneIndex="-1" iPadIndex="4" />
+            <Key Cap="€" Glyph="€" iPhoneIndex="-1" iPadIndex="5" />
+            <Key Cap="£" Glyph="£" iPhoneIndex="-1" iPadIndex="6" />
+            <Key Cap="¥" Glyph="¥" iPhoneIndex="-1" iPadIndex="7" />
+            <Key Cap="•" Glyph="•" iPhoneIndex="-1" iPadIndex="8" />
+            <Key Cap="intro" Glyph="" iPhoneIndex="-1" iPadIndex="9" Special="Return" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(36)]-12-[key1(39)]-5-[key2(40)]-5-[key3(40)]-5-[key4(40)]-5-[key5(39)]-12-[key6(36)]->=3@500-|"
+             CCLayout="|-3@500-[key0(68)]-17-[key1(74)]-5-[key2(75)]-5-[key3(74)]-5-[key4(75)]-5-[key5(74)]-16-[key6(69)]->=3@500-|"
+             RRPLayout="|-6@500-[key0(56)]-12-[key1(124)]-12-[key2(56)]-12-[key3(56)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]-12-[key7(56)]-80-[key8(76)]->=6@500-|"
+             RRLLayout="|-7@500-[key0(77)]-14-[key1(167)]-14-[key2(77)]-14-[key3(76)]-14-[key4(77)]-14-[key5(76)]-14-[key6(77)]-14-[key7(76)]-104-[key8(105)]->=7@500-|"
+             Index="2">
+			<Key Cap="123" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Numbers" />
+            <Key Cap="Rehacer" Glyph="" iPhoneIndex="-1" iPadIndex="1" Special="Redo" />
+			<Key Cap="." Glyph="." iPhoneIndex="1" iPadIndex="2" Alternates=".…" />
+			<Key Cap="," Glyph="," iPhoneIndex="2" iPadIndex="3" />
+			<Key Cap="?" Glyph="?" iPhoneIndex="3" iPadIndex="4" Alternates="?¿" />
+			<Key Cap="!" Glyph="!" iPhoneIndex="4" iPadIndex="5" Alternates="!¡" />
+			<Key Cap="’" Glyph="'" iPhoneIndex="5" iPadIndex="6" Alternates="'’‘`" />
+			<Key Cap="⌫" Glyph="" iPhoneIndex="6" iPadIndex="-1" Special="Delete" />
+            <Key Cap="”" Glyph="&quot;" iPhoneIndex="-1" iPadIndex="7" Alternates="&quot;“”„»«" />
+            <Key Cap="123" Glyph="" iPhoneIndex="-1" iPadIndex="8" Special="Numbers" />
+		</Row>
+        <Row CRLayout="|-3@500-[key0(36)]-14-[key1(49)]-6-[key2(49)]-6-[key3(49)]-6-[key4(49)]-14-[key5(36)]->=3@500-|"
+            CCLayout="|-3@500-[key0(68)]-21-[key1(90)]-8-[key2(90)]-8-[key3(90)]-8-[key4(90)]-20-[key5(69)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(124)]-12-[key2(56)]-12-[key3(56)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]-12-[key7(56)]-12-[key8(56)]-12-[key9(76)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(167)]-14-[key2(77)]-14-[key3(76)]-14-[key4(77)]-14-[key5(76)]-14-[key6(77)]-14-[key7(76)]-14-[key8(76)]-14-[key9(105)]->=7@500-|"
+            Index="2" KeyboardType="7">
+            <Key Cap="123" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Numbers" />
+            <Key Cap="." Glyph="." iPhoneIndex="1" iPadIndex="-1" Alternates=".…" />
+            <Key Cap="_" Glyph="_" iPhoneIndex="2" iPadIndex="-1" />
+            <Key Cap="-" Glyph="-" iPhoneIndex="3" iPadIndex="-1" Alternates="-–—•" />
+            <Key Cap="+" Glyph="+" iPhoneIndex="4" iPadIndex="-1" />
+            <Key Cap="⌫" Glyph="" iPhoneIndex="5" iPadIndex="-1" Special="Delete" />
+            <Key Cap="Rehacer" Glyph="" iPhoneIndex="-1" iPadIndex="1" Special="Redo" />
+            <Key Cap="$" Glyph="$" iPhoneIndex="-1" iPadIndex="2" Alternates="$¥€$¢£₩" />
+            <Key Cap="&amp;" Glyph="&amp;" iPhoneIndex="-1" iPadIndex="3" Alternates="&amp;§" />
+            <Key Cap="~" Glyph="~" iPhoneIndex="-1" iPadIndex="4" />
+            <Key Cap="#" Glyph="#" iPhoneIndex="-1" iPadIndex="5" />
+            <Key Cap="=" Glyph="=" iPhoneIndex="-1" iPadIndex="6" />
+            <Key Cap="+" Glyph="+" iPhoneIndex="-1" iPadIndex="7" />
+            <Key Cap="." Glyph="." iPhoneIndex="-1" iPadIndex="8" Alternates="|.|.com|.net|.edu|.org|.es|.mx" />
+            <Key Cap="123" Glyph="" iPhoneIndex="-1" iPadIndex="9" Special="Numbers" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(122)]-6-[key4(74)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(277)]-7-[key4(107)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(396)]-12-[key4(76)]-12-[key5(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(467)]-14-[key4(105)]-14-[key5(76)]->=7@500-|"
+             Index="3">
+            <Key Cap="ABC" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Letters" />
+            <Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+            <Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+            <Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+            <Key Cap="intro" Glyph="" iPhoneIndex="4" iPadIndex="-1" Special="Return" />
+            <Key Cap="ABC" Glyph="" iPhoneIndex="-1" iPadIndex="4" Special="Letters" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="5" Special="DismissKeyboard" />
+
+        </Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(42)]-6-[key4(34)]-6-[key5(34)]-6-[key6(74)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(137)]-6-[key4(64)]-6-[key5(64)]-7-[key6(107)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(348)]-12-[key4(56)]-12-[key5(56)]-12-[key6(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(467)]-14-[key4(76)]-14-[key5(76)]-14-[key6(76)]->=7@500-|"
+            Index="3" KeyboardType="7">
+            <Key Cap="ABC" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Letters" />
+            <Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+            <Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+            <Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+            <Key Cap="@" Glyph="@" iPhoneIndex="4" iPadIndex="-1" />
+            <Key Cap="." Glyph="." iPhoneIndex="5" iPadIndex="-1" Alternates="|.|.com|.net|.edu|.org|.es|.mx"/>
+            <Key Cap="!" Glyph="!" iPhoneIndex="-1" iPadIndex="4" Alternates="!¡" />
+            <Key Cap="?" Glyph="?" iPhoneIndex="-1" iPadIndex="5" Alternates="?¿" />
+            <Key Cap="intro" Glyph="" iPhoneIndex="6" iPadIndex="-1" Special="Return" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="6" Special="DismissKeyboard" />
+        </Row>
+        <Row CRLayout="|-3@500-[key0(34)]-6-[key1(34)]-6-[key2(26)]-6-[key3(112)]-6-[key4(34)]-6-[key5(44)]->=3@500-|"
+            CCLayout="|-3@500-[key0(50)]-7-[key1(50)]-7-[key2(50)]-7-[key3(221)]-6-[key4(50)]-7-[key5(107)]->=3@500-|"
+            RRPLayout="|-6@500-[key0(56)]-12-[key1(56)]-12-[key2(56)]-12-[key3(386)]-12-[key4(76)]-12-[key5(56)]->=6@500-|"
+            RRLLayout="|-7@500-[key0(77)]-14-[key1(77)]-14-[key2(77)]-14-[key3(528)]-14-[key4(105)]-14-[key5(76)]->=7@500-|"
+             Index="3" KeyboardType="10">
+            <Key Cap="ABC" Glyph="" iPhoneIndex="0" iPadIndex="0" Special="Letters" />
+            <Key Cap="🌐" Glyph="" iPhoneIndex="1" iPadIndex="1" Special="SwitchKeyboards" />
+            <Key Cap="?" Glyph="" iPhoneIndex="2" iPadIndex="2" Special="SwitchSnippetKeyboard" />
+            <Key Cap="espacio" Glyph="" iPhoneIndex="3" iPadIndex="3" Special="Space" />
+            <Key Cap="." Glyph="." iPhoneIndex="4" iPadIndex="-1" Alternates="|.|.com|.net|.edu|.org|.es|.mx"/>
+            <Key Cap="intro" Glyph="" iPhoneIndex="5" iPadIndex="-1" Special="Return" />
+            <Key Cap="ABC" Glyph="" iPhoneIndex="-1" iPadIndex="4" Special="Letters" />
+            <Key Cap="⌨" Glyph="" iPhoneIndex="-1" iPadIndex="5" Special="DismissKeyboard" />
+        </Row>
+	</Keyface>
+</Keyboard>

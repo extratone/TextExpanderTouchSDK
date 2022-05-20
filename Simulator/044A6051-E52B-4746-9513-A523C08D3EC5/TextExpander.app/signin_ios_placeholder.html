@@ -1,0 +1,104 @@
+<html>
+	<head>
+		<title>%1$@</title>
+		<meta name="viewport" content="width=device-width,  initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+			<style>
+				body {
+					font-family: Helvetica, sans-serif;
+					font-size: 15px;
+					margin-bottom: 5px;
+					margin-top: 15px;
+					background-color: #ffffff;
+					color: #677284;
+				}
+			div {
+				padding: 10px 12px;
+			}
+			.subtext {
+				font-size: 12px;
+				font-weight: 500;
+				margin-bottom: 5px;
+				margin-left: 20px;
+				margin-right: 20px;
+			}
+			.buttonlook {
+				font-size: 16px;
+				padding: 10px 12px;
+				color: #ffffff;
+				background-color: #f79927;
+				border-color: #f68d0e;
+				font-weight: bold;
+				text-align: center;
+				vertical-align: middle;
+				cursor: pointer;
+				border: 1px solid transparent;
+				border-radius: 2px;
+				white-space: nowrap;
+				text-transform: uppercase;
+			}
+			
+			.buttonlook:hover {
+				color: #ffffff;
+				background-color: #e38008;
+				border-color: #c06d07;
+			}
+			</style>
+	</head>
+	<script>
+		var offlinePres = false;
+		function showProbablyOffline() {
+			if (!offlinePres) {
+				document.getElementById("localLoadStatus").style.display = "none";
+				document.getElementById("localOfflineStatus").style.display = "block";
+			}
+		}
+	function showLocalStatus() {
+		if (!offlinePres) {
+			document.getElementById("localLoadStatus").style.visibility = "visible";
+			window.setTimeout(showProbablyOffline, 8000);
+		}
+	}
+	function loadSetup() {
+		window.setTimeout(showLocalStatus, 2000);
+	}
+	function suspectOffline(optionalMsg) {
+		if (!offlinePres) {
+			var statDiv = document.getElementById("localLoadStatus");
+			if (optionalMsg) {
+				statDiv.style.display = "block";
+				statDiv.style.visibility = "visible";
+				statDiv.innerHTML = optionalMsg;
+			}
+			else {
+				statDiv.style.display = "none";
+			}
+			document.getElementById("localOfflineStatus").style.display = "block";
+			document.getElementById("localStill").style.display = "none";
+			document.getElementById("suspectOfflineSub").style.display = "block";
+			document.getElementById("suspectFirewallSub").style.display = "block";
+			document.getElementById("learn").style.display = "none";
+			document.getElementById("retry").style.display = "block";
+			offlinePres = true;
+		}
+	}
+	</script>
+	<body onload="loadSetup()">
+		<div style="text-align:center; visibility: hidden;" id="localLoadStatus">%2$@</div>
+		<div style="text-align:left; display: none;" id="localOfflineStatus">
+			<div id="localStill">%3$@</div>
+			<div id="localHints">%4$@</div>
+			<div class="subtext" id="suspectOfflineSub" style="display: none;">%5$@</div>
+			<div id="localHints">%6$@</div>
+			<div class="subtext" id="suspectFirewallSub" style="display: none;">%7$@</div>
+			<div id="localHints">
+				<span style="float:left;" id="learn">
+					<a href="https://textexpander.com/cgi-bin/redirect.pl?product=textexpander&cmd=learnmore&topic=signin" target="_blank" class="buttonlook">%8$@</a>
+				</span>
+				<span style="float:left; display:none;" id="retry">
+					<a href="tetouch-xc:///;action=signin&vers=1" class="buttonlook">%9$@</a>
+				</span>
+			</div>
+		</div>
+		</div>
+	</body>
+</html>
